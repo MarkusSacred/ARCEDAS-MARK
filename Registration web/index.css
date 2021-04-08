@@ -48,6 +48,7 @@ body{
     color: white;
     background-color: #023E8A;
     padding-bottom: 3;
+    width: 100%;
 }
 
 
@@ -98,10 +99,10 @@ body{
 #button{
     
     margin-left: 50x;
-    margin-top: 42;
-    height: 20;
+    margin-top: 40;
+    height: 22;
     width: 50;
-    background-color: #0077B6;
+    background-color: #3E92CC;
     color: white;
     border: 1px;
 }
